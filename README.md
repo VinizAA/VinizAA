@@ -1,4 +1,4 @@
-Olá!
+# Olá!
 
 Meu nome é Vinícius Afonso Alvarez, tenho 18 anos e sou estudante de Engenharia da Computação na PUC-CAMPINAS. 
 
