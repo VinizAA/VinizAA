@@ -20,15 +20,13 @@ I am passionate about technology and am always excited to learn and explore new 
 
 My experience covers programming, embedded systems, machine learning, computer vision and natural language processing, where I acquired skills in C (<img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>), Python ([<img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://www.python.org)), PHP ([<img  width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>](https://www.php.net)), Assembly and VHDL. I use VS Code ([<img width="15px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>](https://code.visualstudio.com)) as my primary development tool and I am always seeking new opportunities to learn and enhance my technical skills. I am an effective developer and work well in team, valuing idea exchange and cooperation. However, my preference is to contribute as a team member rather than assuming leadership roles.
 
-On my GitHub profile, you will find a variety of projects that demonstrate my skills and interests. Feel free to explore, clone, and collaborate on any of them. If you are interested in working together on projects or have any questions, please don't hesitate to contact me. I am always open to new opportunities and collaborations.
+On my GitHub profile, you will find a variety of projects that demonstrate my skills and interests. Feel free to explore, clone, and collaborate on any of them. If you are interested in working together on projects or have any questions, please don't hesitate to contact me, I am always open to new opportunities and collaborations.
 
 I am a native Portuguese speaker and I also have intermediate English skills and basic knowledge of Spanish. Regarding English, I am able to understand and communicate in everyday situations, as well as read and write texts with relative ease. As for Spanish, I can comprehend simple conversations and express myself in everyday situations. I believe that the ability to communicate in different languages is a valuable asset, especially in an increasingly globalized world.
 
 Thank you for visiting my profile and I hope we have the chance to work together in the future.
 
 Sincerely, Vinícius Alvarez
-
-
 
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VinizAA&layout=compact&langs_count=8&theme=algolia"/>
 </a>
