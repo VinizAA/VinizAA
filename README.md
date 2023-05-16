@@ -4,7 +4,7 @@ Meu nome é Vinícius Afonso Alvarez, tenho 18 anos e sou estudante de Engenhari
 
 Sou apaixonado por tecnologia e estou sempre entusiasmado em aprender e explorar novas possibilidades nessa área. Tenho paixão por criar soluções inovadoras para desafios complexos por meio da programação.
 
-Minha experiência abrange programação, sistemas embarcados, machine learning, visão computacional e processamento de linguagem natural, onde adquiri habilidades em C (<img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>), Python ([<img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://www.python.org)), Assemble e PHP ([<img  width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>](https://www.php.net)). Sempre estou em busca de novas oportunidades para aprender e aprimorar minhas habilidades técnicas. Sou um desenvolvedor eficaz e trabalho bem em equipe, valorizando a troca de ideias e a cooperação. No entanto, minha preferência é contribuir como membro da equipe, em vez de assumir posições de liderança.
+Minha experiência abrange programação, sistemas embarcados, machine learning, visão computacional e processamento de linguagem natural, onde adquiri habilidades em C (<img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>), Python ([<img width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>](https://www.python.org)), PHP ([<img  width="20px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>](https://www.php.net)), Assembly e VHDL. Utilizo o VS Code ([<img width="15px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>](https://code.visualstudio.com)) como principal ferramenta de desenvolvimento e sempre estou em busca de novas oportunidades para aprender e aprimorar minhas habilidades técnicas. Sou um desenvolvedor eficaz e trabalho bem em equipe, valorizando a troca de ideias e a cooperação. No entanto, minha preferência é contribuir como membro da equipe, em vez de assumir posições de liderança.
 
 No meu perfil do GitHub, você encontrará uma variedade de projetos que demonstrem minhas habilidades e interesses. Fique à vontade para explorar, clonar e colaborar em qualquer um deles. Se você estiver interessado em trabalhar junto em projetos ou tiver alguma pergunta, não hesite em entrar em contato, estou sempre aberto a novas oportunidades e colaborações.
 
@@ -15,5 +15,9 @@ Agradeço por visitar meu perfil e espero ter a chance de podermos trabalhar jun
 
 Atenciosamente, Vinícius Alvarez
 
-#
+
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VinizAA&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+# 
 <a href="https://www.instagram.com/vini_alvarez" target="_blank"><img align="left" alt="Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg"/>
