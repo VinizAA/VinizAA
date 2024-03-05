@@ -1,4 +1,4 @@
-<img width="20px" align="center" src="https://logodownload.org/wp-content/uploads/2022/05/brazil-flag-bandeira.png"/> // Olá! Meu nome é Vinícius Afonso Alvarez, tenho 18 anos e sou estudante de Engenharia da Computação na PUC-CAMPINAS. 
+<img width="20px" align="center" src="https://logodownload.org/wp-content/uploads/2022/05/brazil-flag-bandeira.png"/> // Olá! Meu nome é Vinícius Afonso Alvarez, tenho 19 anos e sou estudante de Engenharia da Computação na PUC-CAMPINAS. 
 
 Sou apaixonado por tecnologia e estou sempre entusiasmado em aprender e explorar novas possibilidades nessa área. Tenho paixão por criar soluções inovadoras para desafios complexos por meio da programação.
 
@@ -14,7 +14,7 @@ Agradeço por visitar meu perfil e espero ter a chance de podermos trabalhar jun
 Atenciosamente, Vinícius Alvarez
 
 ##
-<img width="20px" align="center" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg"/> // Hello! My name is Vinícius Afonso Alvarez, I'm 18 years old and I'm studying Computer Engineering at PUC-CAMPINAS.
+<img width="20px" align="center" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg"/> // Hello! My name is Vinícius Afonso Alvarez, I'm 19 years old and I'm studying Computer Engineering at PUC-CAMPINAS.
 
 I am passionate about technology and am always excited to learn and explore new possibilities in this area. I have a passion for creating innovative solutions to complex challenges through programming. 
 
