@@ -33,3 +33,4 @@ Sincerely, Vinícius Alvarez
 
 # 
 <a href="https://www.instagram.com/vini_alvarez" target="_blank"><img align="left" alt="Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg"/>
+
