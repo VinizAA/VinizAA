@@ -1,4 +1,4 @@
-<img src="https://github.com/VinizAA/VinizAA/blob/main/Picture1.pdf" width="1000" height="390">
+<img src="Picture_1.png" width="1000" height="350">
 
 <a href="https://www.linkedin.com/in/vinicius-alvarez-72b44a292/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:vinicius.afonsoalvarez@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
