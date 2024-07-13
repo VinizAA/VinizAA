@@ -6,6 +6,7 @@ Studying in Campinas, I'm passionate about technology and always excited to lear
 - Currently working with Python in ML 🧠💻
 - Improving in Azure, frameworks, and databases ⚡️
 - Working on personal graph projects 💡
+- More about me, [click here](https://drive.google.com/drive/folders/176Bvo3XTh4Bc4uWHyy0XSqJcPQHxWDW7?usp=sharing)
 
 ## Programming Languages and IDEs
 [![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
