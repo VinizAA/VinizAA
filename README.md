@@ -21,15 +21,15 @@ Studying in Campinas, I'm passionate about technology and always excited to lear
 [![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-## Languages 🌐
+## Languages 🌐  
 Português 🇧🇷   
-![](https://progress-bar.dev/100/?title=)  
+| ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 100%
 
-Inglês 🇺🇸   
-![](https://progress-bar.dev/87/?title=)   
+Inglês 🇺🇸     
+| ⬜⬜⬜⬜⬜⬜⬜⬜    | 85%
 
-Espanhol 🇪🇸   
-![](https://progress-bar.dev/22/?title=)
+Espanhol 🇺🇸   
+| ⬜⬜⬜             | 22%
 
 ## 
 <div style="display: flex; justify-content: space-between;">
